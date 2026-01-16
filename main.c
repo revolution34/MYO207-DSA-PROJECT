@@ -4,6 +4,7 @@
 //2420171049
 //https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=gK2hal9jK7
 
+
 void dizi_yazdir(int dizi[], int boyut) {
     int i;
     for (i = 0; i < boyut; i++) {
